@@ -8,7 +8,7 @@
             "type": "lua",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/aaaaaaaa.lua"
+            "program": "${workspaceFolder}/file_manipulation.lua"
         }
     ]
 }
